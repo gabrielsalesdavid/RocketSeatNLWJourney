@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\resources\\application.properties||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\resources\\application.properties||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlannerApplication.java",
+              "DocumentMoniker": "C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java",
+              "ToolTip": "C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java",
+              "RelativeToolTip": "src\\main\\java\\com\\rocketseat\\planner\\PlannerApplication.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-07-09T11:52:30.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.properties",
+              "DocumentMoniker": "C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\resources\\application.properties",
+              "RelativeDocumentMoniker": "src\\main\\resources\\application.properties",
+              "ToolTip": "C:\\Users\\Gabriel Sales David\\Documents\\Estudos\\Cursos\\planner\\src\\main\\resources\\application.properties",
+              "RelativeToolTip": "src\\main\\resources\\application.properties",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-09T11:46:12.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
