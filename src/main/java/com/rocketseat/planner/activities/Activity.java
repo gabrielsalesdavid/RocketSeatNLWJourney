@@ -16,7 +16,7 @@ import java.util.UUID;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class activity {
+public class Activity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
